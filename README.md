@@ -2,7 +2,7 @@
 
 📦 **IDM Crack Archive Repository**
 这是一个 **Internet Download Manager (IDM) 破解工具的归档仓库**，仅用于备份和研究学习。
-
+文件解压密码：1234
 ---
 
 ## 📖 中文说明 (zh)
