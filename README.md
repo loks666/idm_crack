@@ -9,6 +9,7 @@
 
 本仓库用于归档 **IDM 破解工具**。
 工具最初由 [Ali.Dbg](https://ckk.ir/) 发布，本仓库仅作**转载与存档**。
+2026-7-6 14:17更新：v20.6版本
 
 ⚠️ **免责声明**：
 
@@ -22,6 +23,7 @@
 
 This repository serves as an **archive for the IDM crack tool**.
 The original tool was released by [Ali.Dbg](https://ckk.ir/), and I am only **reproducing and archiving it here**.
+2026-07-06 14:17 update: version v20.6 released.
 
 ⚠️ **Disclaimer**:
 
